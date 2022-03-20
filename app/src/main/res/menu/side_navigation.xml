@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profileSN"
+        android:title="PROFILE"
+        android:icon="@drawable/profile_nm"
+        />
+    <item
+        android:id="@+id/mypostsSN"
+        android:title="MY POSTS"
+        android:icon="@drawable/post_nm"
+        />
+    <item
+        android:id="@+id/notificationSN"
+        android:title="NOTIFICATIONS"
+        android:icon="@drawable/notification_nm"
+        />se
+    <item
+        android:id="@+id/settingsSN"
+        android:title="SETTINGS"
+        android:icon="@drawable/setting_nm"
+        />
+    <item
+        android:id="@+id/aboutusSN"
+        android:title="ABOUT US"
+        android:icon="@drawable/info_nm"
+        />
+    <item
+        android:id="@+id/logoutSN"
+        android:title="LOG OUT"
+        android:icon="@drawable/logout_nm"
+        />
+   
+
+
+</menu>
